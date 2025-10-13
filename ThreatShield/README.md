@@ -298,7 +298,7 @@ https://github.com/user-attachments/assets/821853e3-557f-472b-a108-3a2a98bd97d5
 
 #### Hypothetical User Scenario
 
-> **Alice**, a Security Engineer, is onboarding a new payments platform. She uploads the system's DFDs and architecture, connects the GitHub repo, and sets data sensitivity. Threat Shield instantly generates a threat model showing 23 **STRIDE** threats, highlighting 7 unresolved high-risk issues and 2 failed PCI **compliance** controls. Using the **DREAD** heatmap and attack tree, Alice quickly triages which risks to escalate to DevOps for urgent fixes, and exports a report to satisfy the next audit.
+> **Alice**, a Security Engineer, is onboarding a new payments platform. She uploads the system's DFDs and architecture, connects the GitHub repo, and sets data sensitivity. ThreatShield instantly generates a threat model showing 23 **STRIDE** threats, highlighting 7 unresolved high-risk issues and 2 failed PCI **compliance** controls. Using the **DREAD** heatmap and attack tree, Alice quickly triages which risks to escalate to DevOps for urgent fixes, and exports a report to satisfy the next audit.
 
 
 
@@ -309,7 +309,7 @@ https://github.com/user-attachments/assets/821853e3-557f-472b-a108-3a2a98bd97d5
 <img width="800" height="600" alt="Threat-modelling-LLM" src="https://github.com/user-attachments/assets/cb04dccb-898c-4ce4-b7be-4440cd59eedf" />
 
 
-**Description:** This diagram shows the LLM threat modeling architecture, demonstrating how Threat Shield performs comprehensive security analysis on Large Language Models, including threat modeling security probe execution, vulnerability assessment, and **compliance** mapping for AI systems.
+**Description:** This diagram shows the LLM threat modeling architecture, demonstrating how ThreatShield performs comprehensive security analysis on Large Language Models, including threat modeling security probe execution, vulnerability assessment, and **compliance** mapping for AI systems.
 
 #### Demo Video
 
@@ -347,7 +347,7 @@ https://github.com/user-attachments/assets/80d820aa-c047-4783-a022-eede99f006af
 - **Threat modeling** analyzes LLM systems for:  
   - ANSI escapes, attack generation, audio attacks, antivirus/spam bypass, data leakage, prompt injection, roleplay/jailbreaks, SQLi, XSS, hallucinated package names, adversarial suffixes, emotional manipulation, and more.
 - **LLM Exposure Analysis:**  
-  - Beyond threat modeling security probe results, Threat Shield analyzes the LLM's exposure and risk posture, surfaces all successful bypasses, and maps to **OWASP** Top 10 for API Security and failed **compliance** controls.
+  - Beyond threat modeling security probe results, ThreatShield analyzes the LLM's exposure and risk posture, surfaces all successful bypasses, and maps to **OWASP** Top 10 for API Security and failed **compliance** controls.
 
 ### LLM Threat Modeling Security Probe Finding Details
 
@@ -360,7 +360,7 @@ https://github.com/user-attachments/assets/80d820aa-c047-4783-a022-eede99f006af
 
 #### Deep-Dive: LLM Threat Modeling System
 
-Threat Shield performs comprehensive threat modeling for LLM systems, analyzing dozens of security categories:
+ThreatShield performs comprehensive threat modeling for LLM systems, analyzing dozens of security categories:
 
 | Threat Category        | What It Analyzes                                                          | Why It Matters                        |
 |-----------------------|--------------------------------------------------------------------------|---------------------------------------|
@@ -383,7 +383,7 @@ Threat Shield performs comprehensive threat modeling for LLM systems, analyzing 
 | Latent Injection      | Model attacked through hidden instructions in data                        | RAG, document QA system risk          |
 
 > **Further Analysis:**  
-> Beyond these threat categories, Threat Shield analyzes all threat modeling results for exposure patterns—automatically scoring LLM risk, mapping incidents to **OWASP** Top 10 for API Security and **compliance** controls, and surfacing which prompt/attack types are most dangerous in your use case.
+> Beyond these threat categories, ThreatShield analyzes all threat modeling results for exposure patterns—automatically scoring LLM risk, mapping incidents to **OWASP** Top 10 for API Security and **compliance** controls, and surfacing which prompt/attack types are most dangerous in your use case.
 
 #### How It Benefits Users
 
@@ -395,7 +395,7 @@ Threat Shield performs comprehensive threat modeling for LLM systems, analyzing 
 
 #### Hypothetical User Scenario
 
-> **Raj**, an AI/ML Product Lead, is launching a GenAI-powered helpdesk. He runs a Threat Shield LLM threat modeling assessment, which analyzes 40+ security threat vectors. The dashboard reveals high-risk prompt injection and roleplay vulnerabilities, and a failed GDPR control. Raj reviews the suggested fixes, patches the prompt template, and re-runs the assessment—dropping risk level to "Low" and passing all **compliance** checks before go-live.
+> **Raj**, an AI/ML Product Lead, is launching a GenAI-powered helpdesk. He runs a ThreatShield LLM threat modeling assessment, which analyzes 40+ security threat vectors. The dashboard reveals high-risk prompt injection and roleplay vulnerabilities, and a failed GDPR control. Raj reviews the suggested fixes, patches the prompt template, and re-runs the assessment—dropping risk level to "Low" and passing all **compliance** checks before go-live.
 
 
 
@@ -407,7 +407,7 @@ Threat Shield performs comprehensive threat modeling for LLM systems, analyzing 
 <img width="800" height="600" alt="Threat-modelling-MCP" src="https://github.com/user-attachments/assets/e5297c79-9bdb-4143-99ae-99b834389dfc" />
 
 
-**Description:** This diagram presents the MCP Server vulnerability scanning architecture, illustrating how Threat Shield performs static code analysis on MCP repositories, identifies security vulnerabilities, and generates LLM-powered explanations with **compliance** mapping.
+**Description:** This diagram presents the MCP Server vulnerability scanning architecture, illustrating how ThreatShield performs static code analysis on MCP repositories, identifies security vulnerabilities, and generates LLM-powered explanations with **compliance** mapping.
 
 #### Demo Video
 
