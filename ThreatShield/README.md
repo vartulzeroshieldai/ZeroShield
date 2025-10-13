@@ -1,14 +1,14 @@
 <div align="center">
 
-# 🛡️ Threat Shield
+# 🛡️ _ThreatShield_
 
 ### *Advanced Threat Modeling & Security Intelligence Platform*
 
 <br />
 
-   <img width="200" height="200" alt="Threat Shield Logo" src="./Static Assets/Blue-Logo.png" />
+   <img width="200" height="200" alt="_ThreatShield_ Logo" src="./Static Assets/Blue-Logo.png" />
    <br />
-   <em>Threat Shield, a part of <a href="https://zeroshield.ai">ZeroShield</a></em>
+   <em>_ThreatShield_, a part of <a href="https://zeroshield.ai">ZeroShield</a></em>
 
    
 </div>
@@ -47,7 +47,7 @@
 
 <div align="center">
   
-### 🚀 [Sign Up for Threat Shield](https://threatshield.zeroshield.ai)
+### 🚀 [Sign Up for ThreatShield](https://threatshield.zeroshield.ai)
 
 </div>
 
@@ -123,8 +123,8 @@ Our team will work with you to find the right plan for your organization's needs
 
 ---
 
-## About Threat Shield
-**Threat Shield** is an advanced threat modelling platform within the **[ZeroShield](https://zeroshield.ai)** platform, designed to give organizations deep, actionable insight into risks across classic applications, codebases, and cutting-edge GenAI/LLM integrations.Threat Shield unifies real-time threat modeling, LLM threat modeling, and MCP codebase vulnerability scanning for a complete, **compliance**-ready view of your security posture.
+## About ThreatShield
+**ThreatShield** is an advanced threat modelling platform within the **[ZeroShield](https://zeroshield.ai)** platform, designed to give organizations deep, actionable insight into risks across classic applications, codebases, and cutting-edge GenAI/LLM integrations.Threat Shield unifies real-time threat modeling, LLM threat modeling, and MCP codebase vulnerability scanning for a complete, **compliance**-ready view of your security posture.
 
 
 ---
