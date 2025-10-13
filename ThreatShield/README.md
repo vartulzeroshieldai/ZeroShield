@@ -483,7 +483,7 @@ https://github.com/user-attachments/assets/989573aa-2666-4534-ac17-de8862b0937e
 #### Deep-Dive: Analysis Pipeline
 
 - **Step 1: Static Analysis**
-    - When a scan is triggered, Threat Shield temporarily clones the selected MCP repository.
+    - When a scan is triggered, ThreatShield temporarily clones the selected MCP repository.
     - The system runs a suite of static analysis rules covering **OWASP** Top 10 for API Security, common code smells, secrets, and insecure configurations.
     - The analysis engine is chosen for its speed, accuracy, and extensibility (custom rules per project/language).
 - **Step 2: LLM-Powered Findings**
@@ -505,7 +505,7 @@ https://github.com/user-attachments/assets/989573aa-2666-4534-ac17-de8862b0937e
 
 #### Hypothetical User Scenario
 
-> **Jane**, DevSecOps Lead, pushes a new release to the MCP repo. Threat Shield automatically kicks off a scan. Within minutes, Jane sees 13 new findings—two critical SQL injection issues, several failed PCI controls, and a high-risk secrets leak. The LLM-generated explanations help her prioritize fixes, and she exports a **compliance** report for the next audit.
+> **Jane**, DevSecOps Lead, pushes a new release to the MCP repo. ThreatShield automatically kicks off a scan. Within minutes, Jane sees 13 new findings—two critical SQL injection issues, several failed PCI controls, and a high-risk secrets leak. The LLM-generated explanations help her prioritize fixes, and she exports a **compliance** report for the next audit.
 
 
 ---
@@ -569,7 +569,7 @@ https://github.com/user-attachments/assets/989573aa-2666-4534-ac17-de8862b0937e
 
 ## Case Studies
 
-A public repository of case studies and technical deep-dives are available below, demonstrating Threat Shield's real-world impact across various security domains.
+A public repository of case studies and technical deep-dives are available below, demonstrating ThreatShield's real-world impact across various security domains.
 
 - **Case Study 1: Securing a High-Risk Payments Platform (Threat Modeling)**
     - [View Case Study](Case%20Studies/securing-payments-platform.md)
@@ -589,22 +589,22 @@ A public repository of case studies and technical deep-dives are available below
 > **Value Proposition:**  
 > Unified, automated threat modeling and vulnerability management for the next generation of enterprise security
 > "Thraet Shield turns complex, manual security and compliance challenges into automated, actionable insights—empowering teams to move faster, safer, and with confidence."
-*Threat Shield, a part of [ZeroShield](https://zeroshield.ai), brings in-depth, practical security to every step of your development and deployment lifecycle.*
+*ThreatShield, a part of [ZeroShield](https://zeroshield.ai), brings in-depth, practical security to every step of your development and deployment lifecycle.*
 
 ---
 
 ## Get Involved
 
-We welcome contributions from the security community! Here's how you can get involved with [Threat Shield](https://zeroshield.ai):
+We welcome contributions from the security community! Here's how you can get involved with [ThreatShield](https://zeroshield.ai):
 
 ### 🚀 Get Started
 
-**[Sign up for Threat Shield](https://threatshield.zeroshield.ai)** to start securing your systems today!
+**[Sign up for ThreatShield](https://threatshield.zeroshield.ai)** to start securing your systems today!
 
 ### 🤝 Contributing
 
 - **Report Issues**: Found a bug or have a feature request? Open an issue on our repository
-- **Code Contributions**: Submit pull requests to help improve [Threat Shield](https://zeroshield.ai)
+- **Code Contributions**: Submit pull requests to help improve [ThreatShield](https://zeroshield.ai)
 - **Documentation**: Help improve our documentation and examples
 - **Security Research**: Contribute new threat models, attack patterns, or vulnerability tests
 
@@ -612,7 +612,7 @@ We welcome contributions from the security community! Here's how you can get inv
 
 - **GitHub Discussions**: Join our community discussions and share ideas
 - **Security Research**: Collaborate on new security analysis techniques
-- **Feedback**: Share your experience using [Threat Shield](https://zeroshield.ai) in your organization
+- **Feedback**: Share your experience using [ThreatShield](https://zeroshield.ai) in your organization
 
 ### 📞 Contact
 
