@@ -173,6 +173,8 @@
 </td></tr>
 </table>
 
+> **⚠️ Important:** Maximum GitHub repository size allowed is **100 MB**
+
 <div align="center">
 <img width="900" height="400" alt="Network Settings" src="https://github.com/user-attachments/assets/52d7fa23-4499-46e9-884b-dbd53b8673f0" />
 </div>
@@ -461,6 +463,8 @@
 
 </td></tr>
 </table>
+
+> **⚠️ Important:** Maximum GitHub repository size allowed is **100 MB**
 
 <div align="center">
 <img width="900" height="400" alt="Repository Settings" src="https://github.com/user-attachments/assets/65e1bd7e-cd74-4bbb-a896-cfc1487c33fc" />
