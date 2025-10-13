@@ -83,14 +83,14 @@
 
 ### Security Measures & Data Protection
 
-Threat Shield implements enterprise-grade security measures to protect your data and ensure the highest level of application security:
+ThreatShield implements enterprise-grade security measures to protect your data and ensure the highest level of application security:
 
 #### File Security
 - **Antivirus scanning** is automatically performed on all file uploads to prevent malware transmission
 - All uploaded files are scanned in real-time before processing
 
 #### Application Security
-- **OWASP** Top 10 for API Security **compliance** - Threat Shield has been thoroughly tested against **OWASP** Top 10 for API Security vulnerabilities for application security
+- **OWASP** Top 10 for API Security **compliance** - ThreatShield has been thoroughly tested against **OWASP** Top 10 for API Security vulnerabilities for application security
 - **Two-Factor Authentication (2FA)** - Enhanced security for login and signup with 2FA verification
 - **Secure authentication** with JWT tokens and encrypted session management
 - **Input validation** and sanitization for all user inputs to prevent injection attacks
@@ -119,19 +119,19 @@ To learn more about our paid plans and pricing options, please contact our team:
 
 Our team will work with you to find the right plan for your organization's needs.
 
-**[Get started with a trial account](https://threatshield.zeroshield.ai)** to experience Threat Shield today!
+**[Get started with a trial account](https://threatshield.zeroshield.ai)** to experience ThreatShield today!
 
 ---
 
 ## About ThreatShield
-**ThreatShield** is an advanced threat modelling platform within the **[ZeroShield](https://zeroshield.ai)** platform, designed to give organizations deep, actionable insight into risks across classic applications, codebases, and cutting-edge GenAI/LLM integrations.Threat Shield unifies real-time threat modeling, LLM threat modeling, and MCP codebase vulnerability scanning for a complete, **compliance**-ready view of your security posture.
+**ThreatShield** is an advanced threat modelling platform within the **[ZeroShield](https://zeroshield.ai)** platform, designed to give organizations deep, actionable insight into risks across classic applications, codebases, and cutting-edge GenAI/LLM integrations.ThreatShield unifies real-time threat modeling, LLM threat modeling, and MCP codebase vulnerability scanning for a complete, **compliance**-ready view of your security posture.
 
 
 ---
 
 ## Core Mission
 
-Empower teams to rapidly identify, understand, and remediate security risks—across all technologies—by automating threat analysis, vulnerability detection, and compliance mapping. Threat Shield bridges the gap between security, development, and compliance, enabling secure digital innovation.
+Empower teams to rapidly identify, understand, and remediate security risks—across all technologies—by automating threat analysis, vulnerability detection, and compliance mapping. ThreatShield bridges the gap between security, development, and compliance, enabling secure digital innovation.
 
 
 ---
@@ -148,7 +148,7 @@ Empower teams to rapidly identify, understand, and remediate security risks—ac
 
 ## Security Frameworks & Methodologies
 
-Threat Shield employs industry-standard security frameworks to ensure comprehensive threat analysis:
+ThreatShield employs industry-standard security frameworks to ensure comprehensive threat analysis:
 
 ### **STRIDE** Threat Classification
 **STRIDE** is a threat modeling framework that categorizes security threats into six fundamental types:
