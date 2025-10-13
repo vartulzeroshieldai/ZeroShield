@@ -124,7 +124,7 @@ Our team will work with you to find the right plan for your organization's needs
 ---
 
 ## About ThreatShield
-**ThreatShield** is an advanced threat modelling platform within the **[ZeroShield](https://zeroshield.ai)** platform, designed to give organizations deep, actionable insight into risks across classic applications, codebases, and cutting-edge GenAI/LLM integrations.ThreatShield unifies real-time threat modeling, LLM threat modeling, and MCP codebase vulnerability scanning for a complete, **compliance**-ready view of your security posture.
+**ThreatShield** is an **Advanced Threat Modelling Platform** within the **[ZeroShield](https://zeroshield.ai)** platform, designed to give organizations deep, actionable insight into risks across classic applications, codebases, and cutting-edge GenAI/LLM integrations.ThreatShield unifies real-time threat modeling, LLM threat modeling, and MCP codebase vulnerability scanning for a complete, **compliance**-ready view of your security posture.
 
 
 ---
